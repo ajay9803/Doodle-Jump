@@ -4,7 +4,7 @@ This is a simple implementation of the classic Doodle Jump game using HTML5 Canv
 
 ## Gameplay
 
-Jump as high as possible by landing on platforms and avoiding falling off the screen or being caught by monsters.
+Jump as high as possible by landing on platforms and avoiding falling off the screen.
 
 ## Controls
 
@@ -17,5 +17,5 @@ Jump as high as possible by landing on platforms and avoiding falling off the sc
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd doodle-jump-game
+   git clone git@github.com:ajay9803/Doodle-Jump.git
+   cd Doodle-Jump

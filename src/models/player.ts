@@ -1,3 +1,4 @@
+// Importing constants
 import { GRAVITY, SPEED } from "../constants";
 import rightDoodler from "../assets/sprites/blueR.png";
 import leftDoodler from "../assets/sprites/blueL.png";

@@ -1,5 +1,5 @@
 import Player from "../models/player";
-import Platform from "../models/platform";
+import Platform from "../models/platform"; // Import only Platform
 import {
   GAME_HEIGHT,
   GAME_WIDTH,
