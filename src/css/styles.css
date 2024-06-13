@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Tiny5';
+}
+
+#canvas {
+  border: 1px solid black;
+  background-image: url("../assets/images/background.png");
+}
